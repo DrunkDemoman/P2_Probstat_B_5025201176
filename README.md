@@ -21,6 +21,9 @@ Nilai p-value tidak lebih kecil daripada 0.05, sehingga hipotesis alternatif dit
 
 ## Soal 3
 Data frame untuk Bandung dan bali digenerate melalui rnorm dengan parameter sesuai soal, set.seed digunakan agar nilai konsisten
+### Data No. 3
+![Data Soal 3](/images/data 3.png)
+
 
 ### Penjelasan 3a
 H0: Tidak ada perbedaan rata-rata yang signifikan antara saham di Bandung dengan saham di Bali\
